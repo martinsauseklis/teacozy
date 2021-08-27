@@ -1,0 +1,26 @@
+* {
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+}
+
+header nav{
+    position: fixed;
+    height: 69px;
+    
+    
+    border-bottom: 1px solid seashell;
+}
+
+ul {
+    list-style: none;
+    display: inline;
+}
+
+li {
+    display: inline;
+}
+
