@@ -121,8 +121,21 @@ main {
     flex-flow: wrap;
     
     gap: 50px;
+    row-gap: 25px;
     justify-content: center;
     
+    
+}
+
+.flex-img {
+    margin:0;
+    
+}
+
+.flex-img h4{
+    
+    margin-bottom: 0;
+    margin-top: 10px;
 }
 
 #locations {
@@ -188,7 +201,7 @@ footer {
     flex-direction: column;
     height: 200px;
     width: 100%;
-
+    
 }
 
 footer h2 {
@@ -200,12 +213,12 @@ footer h2 {
 
 footer h5 {
     margin: 0;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
 }
 
 #cr {
     margin:0;
-    
+   
     width:100%;
     bottom: 0;
     left: 20px;
